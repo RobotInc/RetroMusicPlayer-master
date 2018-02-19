@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="BottomNavigationBehavior_Params">
+        <attr name="tabLayoutId" format="reference" />
+    </declare-styleable>
+
+
+    <attr name="roundSelector" format="reference" />
+    <attr name="rectSelector" format="reference" />
+    <attr name="rectSelectorStrong" format="reference" />
+
+    <attr name="defaultFooterColor" format="color" />
+
+    <attr name="toolbarPopupTheme" format="reference" />
+
+    <attr name="iconColor" format="color" />
+    <attr name="dividerColor" format="color" />
+
+
+
+</resources>

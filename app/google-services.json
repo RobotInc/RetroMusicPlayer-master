@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "848959091788",
+    "firebase_url": "https://tamil-songs-and-lyircs.firebaseio.com",
+    "project_id": "tamil-songs-and-lyircs",
+    "storage_bucket": "tamil-songs-and-lyircs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848959091788:android:9ef1d78ab9a1a9a6",
+        "android_client_info": {
+          "package_name": "in.beyonitysoftwares.tamilsongslyrics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848959091788-61dp4pn934k00kuo3uhvh8r8ndgpn5lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBphTXzdJHZtM_d-iKDv1NK3A7dS62SHMI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848959091788:android:b89c49f161c743a9",
+        "android_client_info": {
+          "package_name": "code.name.monkey.retromusic.debug"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848959091788-iboud8u0ht7n791cnhndfh46092r5fuu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "code.name.monkey.retromusic.debug",
+            "certificate_hash": "f090811f77bab00374821cff36dda40c80b6c4c6"
+          }
+        },
+        {
+          "client_id": "848959091788-61dp4pn934k00kuo3uhvh8r8ndgpn5lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBphTXzdJHZtM_d-iKDv1NK3A7dS62SHMI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848959091788-61dp4pn934k00kuo3uhvh8r8ndgpn5lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
